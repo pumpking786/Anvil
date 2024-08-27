@@ -988,8 +988,8 @@ section,
 }
 
 .about ul i {
-  font-size: 20px;
-  padding-right: 4px;
+  font-size: 25px;
+  padding-right: 8px;
   color: var(--accent-color);
 }
 
