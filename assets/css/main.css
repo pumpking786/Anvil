@@ -1269,7 +1269,7 @@ section,
 .services .col-xl-3{
   margin-bottom: 15px;
 }
-.services .service-item .photo img{
+.services .service-item .icon img {
   max-height: 85px;
   max-width: 500px;
   margin-right: 8px;
@@ -1278,11 +1278,11 @@ section,
   /* filter: invert(50%) sepia(58%) saturate(3194%) hue-rotate(161deg) brightness(95%) contrast(101%); */
 }
 
-/* .services .service-item .icon i {
+.services .service-item .icon i {
   color: var(--accent-color);
   font-size: 36px;
   transition: 0.3s;
-} */
+}
 
 .services .service-item h4 {
   font-weight: 700;
