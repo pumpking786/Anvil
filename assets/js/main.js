@@ -5,7 +5,10 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+function myFunction(id) {
+  var popup = document.getElementById(id);
+  popup.classList.toggle("show");
+}
 (function() {
   "use strict";
 
