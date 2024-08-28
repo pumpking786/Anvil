@@ -1081,7 +1081,10 @@ section,
 .about .read-more:hover i {
   transform: translate(5px, 0);
 }
-
+.imageabout img{
+  width: 100%;
+  height: 90%;
+}
 /*--------------------------------------------------------------
 # Why Us Section
 --------------------------------------------------------------*/
