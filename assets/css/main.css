@@ -642,8 +642,8 @@ h6 {
   font-family: var(--heading-font);
 }
 .footer .footer-about a img {
-  max-height: 70px;
-  max-width: 240px;
+  max-height: 80px;
+  max-width: 260px;
   margin-right: 8px;
 }
 .footer .footer-contact p {
