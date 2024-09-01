@@ -86,12 +86,17 @@ h6 {
   color: var(--heading-color);
   font-family: var(--heading-font);
 }
-
+.successbg{
+  background-color: rgb(34, 135, 34);
+}
+.errorbg{
+  background-color: red;
+}
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
   display: none;
-  background: #df1529;
+  /* background: #df1529; */
   color: #ffffff;
   text-align: left;
   padding: 15px;
